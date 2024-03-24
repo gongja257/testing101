@@ -1,6 +1,3 @@
-<?php>
-
-<h1><center>This is a test website</center></h1>
-
-
-?>
+<html>
+<h1><center>This is a test site</center></h1>
+</html>
